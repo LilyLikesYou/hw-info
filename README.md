@@ -1,4 +1,4 @@
-# HWInfo
+# Vendetta-plugins
 A repo containing various [Vendetta](https://github.com/vendetta-mod/Vendetta) plugins. 
 
 # How to install?
